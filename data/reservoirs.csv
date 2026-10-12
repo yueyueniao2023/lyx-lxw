@@ -1,0 +1,3 @@
+name,minLevel,maxLevel,startLevel,endLevel,levelStep,maxRelease,maxPowerFlow,maxPower,powerCoefficient,headLoss
+龙羊峡,2590,2600,2598.3,2595.2,0.5,6000,1192,1280,8.5,0
+拉西瓦,2440,2452,2452,2452,0.5,6310,2280,4200,8.5,0
